@@ -1,5 +1,6 @@
 # chatglm-openai-api
 
+ChatGLM-OpenAI-API:将 ChatGLM-6B 封装为 OpenAI API 风格，并通过 ngrok/cloudflare 对外提供服务，从而将 ChatGLM 快速集成到 OpenAI 的各种生态中。
 Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model
 
 ## 更新历史
